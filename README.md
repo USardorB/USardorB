@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sardor
 - 👀 I’m interested in de"bugging"
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently preparing to cross over the Android ocean
 - 💞️ I’m looking to collaborate on anything that I understand and might be useful to others
 - 📫 How to reach me Tg: @USardorB
 - 😄 Pronouns: He/Him/His
